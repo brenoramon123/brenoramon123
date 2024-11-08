@@ -11,7 +11,10 @@
   <a href="https://www.instagram.com/mynameisbreno/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-![Estatísticas do GitHub de brenoramon123](https://github-readme-stats.vercel.app/api?username=brenoramon123&show_icons=true&theme=highcontrast)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brenoramon123&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 - 🔭 Trabalhando atualmente no **GenAI** e **Beach Time**.
 
