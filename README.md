@@ -13,9 +13,9 @@
 
 
 
-- 🔭 Trabalhando atualmente no **GenAI** e **Beach Time**.
+- 🔭 Trabalhando atualmente no **Shin** **Beach Time**.
 
-- 🌱 Atualmente estudando **Next.js, React, Python e Node.js**.
+- 🌱 Atualmente estudando **Next.js, React Python **.
 
 - 📫 Como me encontrar: **brenoramon55@gmail.com**
 
