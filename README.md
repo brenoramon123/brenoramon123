@@ -13,9 +13,9 @@
 
 
 
-- 🔭 Trabalhando atualmente no **Shin** **Beach Time**.
+- 🔭 Trabalhando atualmente no **Shin** **Brain Fit** **Sign** & **Canteo** .
 
-- 🌱 Atualmente estudando **Next.js, React Python **.
+- 🌱 Atualmente estudando **Next.js, React Python**.
 
 - 📫 Como me encontrar: **brenoramon55@gmail.com**
 
