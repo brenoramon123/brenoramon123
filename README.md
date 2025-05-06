@@ -44,13 +44,13 @@
 ### ⚙️ Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenoramon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brenoramon123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 ### 🌍 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoramon&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoramon123&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <br>
