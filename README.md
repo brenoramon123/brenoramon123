@@ -1,17 +1,17 @@
-## 👋 Olá! Eu sou o Breno Ramon 🐐  
-<h3 align="center">Desenvolvedor Full Stack apaixonado por resolver problemas com código</h3>
+### Olá! Eu sou Breno Ramon 🐐
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
-<p align="center">
-  <a href="https://www.instagram.com/mynameisbreno/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:brenoramon55@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/breno-ramon-lacerda-santos-01ab541aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mynameisbreno/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenoramon55@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-ramon-lacerda-santos-01ab541aa/)
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/breno-ramon-lacerda-santos-01ab541aa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mynameisbreno/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
+
+
 
 ---
 
@@ -41,20 +41,5 @@
 </div>
 
 ---
-
-### 🌐 Conecte-se comigo
-
-<p>
-  <a href="https://www.linkedin.com/in/breno-ramon-lacerda-santos-01ab541aa/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/mynameisbreno/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <strong>“Code is the closest thing we have to magic.”</strong> 🧙‍♂️✨
-</div>
+<br>
+Cursando Análise e Desenvolvimento de Sistemas no IFPI 🎓
